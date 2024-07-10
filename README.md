@@ -1,5 +1,3 @@
-# get-file-path
-
 ## Description
 Get File Path is an Alfred workflow that copies the path of selected files or folders to the clipboard and saves them to a `saved-path.txt` file in the Documents folder.
 
